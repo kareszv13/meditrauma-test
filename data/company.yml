@@ -1,19 +1,19 @@
-company_name: REDCODDER SOLUTION
+company_name: MOZGÁSSZERVI GYÓGYCENTRUM
 contact:
-  address: "DeviserWeb 24/A,Jalalabad amborkhana amagnina, Sylhet."
-  phone: "+61 (0) 3 8366 6274"
-  mobile: 01771-299299
-  web_address: deviserweb.com
-  email: "info@info.com"
+  address: "Sopron, Győri út 10/B. földszint 2"
+  phone: "+36 30 860 5050"
+  mobile: +36 30 860 5050
+  web_address: http://meditrauma.hu/
+  email: "info@meditrauma.hu"
 social_media:
   facebook: "#"
   twitter: "#"
   linkedin: "#"
   google: "#"
   instagram: "#"
-copyright_html: <p>&copy; 2013-2017 All rights reserved. <br>
-                                Design and Developed By <a href="https://themefisher.com">Themefisher.com</a></p>
-google_maps_api_key: ""
+copyright_html: <p>&copy; 2015-2022 All rights reserved. <br>
+                                Design and Developed By <a href="http://meditrauma.hu/">http://meditrauma.hu/</a></p>
+google_maps_api_key: "AIzaSyAjvt-wL2dWxT1ss56HyUWoLOW2dwfJLc4"
 
 _inputs:
   google_maps_api_key:

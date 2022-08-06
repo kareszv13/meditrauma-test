@@ -4,7 +4,7 @@ content_blocks:
   - _bookshop_name: sections/video-hero
     heading: We’re Creative
     subheading: We Ensure Quality Design
-    background_video: /video/ocean
+    background_video: /video/cat
   - _bookshop_name: sections/case-study
     background: grey
     heading:
@@ -111,7 +111,7 @@ content_blocks:
       heading: Our Specialized Team
     team_members:
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic1.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -124,7 +124,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic2.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -137,7 +137,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic3.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -150,7 +150,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic4.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -163,7 +163,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic5.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -176,7 +176,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic6.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -189,7 +189,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic7.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -202,7 +202,7 @@ content_blocks:
         google_url: '#'
         instagram_url: '#'
       - _bookshop_name: generic/team-member
-        image: /images/team/team-pic1.jpg
+        image: /images/team/team-pic01.jpg
         image_alt: Team img
         name: aurelien salomo
         job_title: Creative Director
@@ -231,7 +231,7 @@ content_blocks:
       content: Contact Us
     map:
       _bookshop_name: generic/map
-      latitude: "51.507351"
-      longitude: "-0.127758"
+      latitude: "47.676385639124696"
+      longitude: "16.597247841407597"
 ---
 

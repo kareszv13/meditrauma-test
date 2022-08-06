@@ -83,7 +83,7 @@
 
         show.forEach(portfolioItem => {
           portfolioItem.classList.remove('hide');
-          portfolioItem.classList.add('show'); 
+          portfolioItem.classList.add('show');
         });
       });
     });
@@ -91,7 +91,7 @@
     /* Popup Video */
     $('#th-video').magnificPopup({
       items: [{
-        src: 'video/ocean.mp4',
+        src: 'video/cat.mp4',
         type: 'iframe' // this overrides default type
       }],
       gallery: {

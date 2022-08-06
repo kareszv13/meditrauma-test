@@ -18,8 +18,8 @@ content_blocks:
           image_alt: ""
     map:
       _bookshop_name: generic/map
-      latitude: "51.507351"
-      longitude: "-0.127758"
+      latitude: "47.676385639124696"
+      longitude: "16.597247841407597"
   - _bookshop_name: sections/contact-form
     heading:
       heading: Contact Us
